@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "455667844521",
+    "project_id": "understanding-my-facility",
+    "storage_bucket": "understanding-my-facility.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455667844521:android:35434cb601718623e7b0b8",
+        "android_client_info": {
+          "package_name": "com.understanding_my_facility"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455667844521-pp06781upeoqp1agtrh05ihss2qtn5nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6_OZ-XuLqOYk2OVtfpmuHID3LL9DZKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455667844521-pp06781upeoqp1agtrh05ihss2qtn5nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
